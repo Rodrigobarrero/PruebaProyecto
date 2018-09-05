@@ -13,6 +13,7 @@ public class Menú {
 	/****************************
 	 * Encabezado del menú *
 	 ****************************/
+	/*esta limea es prueba*/
 
 	public static int encabezado(Scanner scanner) {
 		int opcion;
